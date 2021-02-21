@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeBook xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<docDscr>
+		<citation>
+			<titlStmt>
+				<titl>DDI2.5 XML CODEBOOK</titl>
+			</titlStmt>
+		</citation>
+	</docDscr>
+	<stdyDscr>
+		<citation>
+			<titlStmt>
+				<titl>Internet User Classification - 2018 - Combined Authorities Geodata Pack: West Yorkshire (E47000003)
+				</titl>
+				<altTitl/>
+			</titlStmt>
+			<rspStmt>
+				<AuthEnty>Alexandros Alexiou</AuthEnty>
+				<AuthEnty>Alex Singleton</AuthEnty>
+				<othId/>
+			</rspStmt>
+			<prodStmt>
+				<producer>ESRC Consumer Data Research Centre </producer>
+				<copyright>The following attribution statements must be used to acknowledge copyright and source in use of these datasets:
+Data provided by the ESRC Consumer Data Research Centre
+Contains National Statistics data Crown copyright and database right 2017;
+Contains Ofcom data 2016;
+Contains CDRC data from Data Partners 2017</copyright>
+				<fundAg>Economic and Social Research Council</fundAg>
+				<grantNo>ES/L003546/1; 1390251</grantNo>
+			</prodStmt>
+			<distStmt>
+				<depositr></depositr>
+				<distDate></distDate>
+			</distStmt>
+			<serStmt>
+				<serName>IUC</serName>
+			</serStmt>
+			<verStmt>
+				<version></version>
+			</verStmt>
+		</citation>
+		<stdyInfo>
+			<subject>
+				<keyword>E47000003</keyword>
+				<keyword>West Yorkshire</keyword>
+				<keyword>2018</keyword>
+				<topcClas></topcClas>
+			</subject>
+			<abstract>This geodata pack provides the CDRC IUC for the year 2018 covering the Combined Authorities: West Yorkshire (E47000003)
+			</abstract>
+			<sumDscr>
+				<timePrd>2018</timePrd>
+				<collDate></collDate>
+				<nation>England</nation>
+				<geogCover>West Yorkshire</geogCover>
+				<geogUnit>LSOA</geogUnit>
+				<anlyUnit>LSOA</anlyUnit>
+				<universe/>
+				<dataKind>Shapefile</dataKind>
+			</sumDscr>
+		</stdyInfo>
+		<method>
+			<dataColl>
+				<timeMeth/>
+				<dataCollector>Office for National Statistics; Offcom</dataCollector>
+				<sampProc/>
+				<deviat/>
+				<collMode/>
+				<sources>
+					<dataSrc> IUC index 2018</dataSrc>
+				</sources>
+				<weight/>
+			</dataColl>
+		</method>
+		<dataAccs>
+			<setAvail>
+				<accsPlac>Consumer Data Research Centre</accsPlac>
+				<accsPlac>UK Data Service</accsPlac>
+			</setAvail>
+			<useStmt>
+				<restrctn/>
+				<contact>data@cdrc.ac.uk</contact>
+			</useStmt>
+		</dataAccs>
+		<othrStdyMat>
+			<relStdy/>
+			<relPubl>Alexiou, A. and Singleton, A. (2018). The 2018 Internet User Classification. ESRC Consumer Data Research Centre</relPubl>
+			<othRefs/>
+		</othrStdyMat>
+	</stdyDscr>
+</codeBook>
