@@ -1,3 +1,3 @@
-# CDRC_Into_to_Python
+# CDRC Introduction to Python Day 2
  
-https://mybinder.org/v2/gh/FrancescaPontin/CDRC_Into_to_Python/master
+Binder link: https://mybinder.org/v2/gh/FrancescaPontin/CDRC_Python_day_2/HEAD
