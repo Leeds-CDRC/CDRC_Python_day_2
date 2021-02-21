@@ -1,0 +1,194 @@
+country,forest_area_km2,per_forest
+Russia,8149300,0.494
+Canada,4916438,0.4924
+Brazil,4776980,0.561
+United States,3100950,0.3384
+China,2083210,0.2183
+Australia,1250000,0.16
+Democratic Republic of the Congo,1172704,0.5
+Argentina,945336,0.34
+Indonesia,884950,0.4646
+India,802088,0.2468
+Mexico,710000,0.365
+Peru,687420,0.5349
+United Sudan,675460,0.2696
+Mozambique,620000,0.78
+Colombia,607280,0.5332
+Angola,591040,0.4741
+Bolivia,587400,0.5347
+Venezuela,471378,0.5168
+Myanmar,430560,0.6364
+Zambia,376309,0.5
+Tanzania,352570,0.3722
+Sudan,327909,0.1762
+Papua New Guinea,294370,0.636
+Sweden,280730,0.6895
+Zimbabwe,259267,0.6635
+Japan,253203,0.67
+France,246640,0.3676
+Finland,233320,0.72
+Central African Republic,227550,0.3653
+Gabon,227517,0.85
+Republic of the Congo,224710,0.657
+Turkey,216781,0.276
+Cameroon,212450,0.4468
+Malaysia,195200,0.595
+Paraguay,184750,0.4542
+Spain,184180,0.367
+Laos,170000,0.716
+Chile,158781,0.21
+Guyana,151040,0.7026
+South Sudan,148196,0.23
+Suriname,147760,0.902
+Thailand,147620,0.29
+Madagascar,128380,0.2187
+Mali,125720,0.1014
+Vietnam,123000,0.3714
+Norway,121120,0.3742
+Botswana,119430,0.2053
+Chad,119210,0.0928
+Ecuador,115510,0.42
+Germany,114190,0.32
+Niger,112000,0.08
+Morocco,111325,0.1566
+Nigeria,110890,0.12
+Iran,110750,0.0672
+Guatemala,108894,0.51
+Italy,106736,0.35
+Ukraine,105000,0.17
+Mongolia,102520,0.0655
+Cambodia,93350,0.5156
+Poland,90000,0.288
+South Africa,89170,0.0731
+Senegal,86730,0.4409
+New Zealand,85424,0.3187
+Belarus,80334,0.386
+Namibia,76610,0.0929
+North Korea,76240,0.73
+Philippines,71620,0.2387
+Somalia,71310,0.1118
+Romania,69610,0.2902
+Burkina Faso,67940,0.2478
+Honduras,67254,0.6
+Guinea,67240,0.2735
+South Korea,63346,0.632
+Benin,61860,0.5493
+Kazakhstan,54498,0.02
+Nicaragua,51890,0.398
+Uganda,50000,0.2074
+Panama,42940,0.5693
+Pakistan,42240,0.0531
+Algeria,42000,0.017
+Turkmenistan,41270,0.0846
+Austria,39600,0.472
+Ethiopia,39313,0.0356
+Latvia,38755,0.6
+Greece,37520,0.2843
+Nepal,36360,0.447
+Bulgaria,36250,0.3269
+Malawi,33176,0.28
+Portugal,31820,0.348
+Liberia,31540,0.2832
+Ivory Coast,30000,0.093
+United Kingdom,28650,0.1176
+Georgia,28577,0.41
+Sierra Leone,27540,0.3839
+Serbia,27200,0.3113
+Cuba,27130,0.2447
+Saudi Arabia,27000,0.0126
+Czech Republic,26000,0.34
+Bosnia and Herzegovina,25599,0.53
+Croatia,24901,0.44
+Bhutan,24764,0.7046
+Ghana,24600,0.102
+Estonia,23066,0.61
+Solomon Islands,22,
+Taiwan,21588,0.6
+Lithuania,21223,0.33
+Hungary,20990,0.23
+Guinea-Bissau,20720,0.5736
+Tunisia,2601,0.0159
+Costa Rica,20440,0.4
+Slovakia,20006,0.408
+Uzbekistan,19690,0.044
+Sri Lanka,19330,0.2946
+Belize,16530,0.7198
+Equatorial Guinea,16320,0.5818
+Eritrea,15540,0.1321
+Dominican Republic,13384,0.275
+Kenya,13200,0.0227
+Oman,13050,0.0422
+Slovenia,12574,0.6202
+Switzerland,12540,0.318
+Azerbaijan,11400,0.1317
+North Macedonia,10285,0.4
+Fiji,10000,0.5472
+Bangladesh,8710,0.0605
+Kyrgyzstan,8690,0.0435
+Iraq,8220,0.0188
+Togo,8000,0.14
+Timor-Leste,7980,0.5365
+Albania,7716,0.2684
+Ireland,7540,0.1107
+Uruguay,7000,0.04
+Belgium,6834,0.2238
+Montenegro,6252,0.4526
+Denmark,6120,0.142
+Bahamas,5150,0.5145
+Gambia,4857,0.43
+Syria,4610,0.0249
+Yemen,4490,0.0085
+Vanuatu,4470,0.3667
+Tajikistan,4100,0.0287
+Netherlands,3650,0.0879
+Jamaica,3308,0.301
+Moldova,3290,0.0972
+Rwanda,3161,0.12
+United Arab Emirates,3120,0.0373
+El Salvador,2980,0.1416
+Armenia,2974,0.1
+Brunei,2780,0.4822
+Mauritania,2670,0.0026
+Trinidad and Tobago,2260,0.4407
+Libya,2170,0.0012
+Iceland,1930,0.02
+Cyprus,1740,0.1881
+Afghanistan,1631,0.0025
+Israel,1600,0.07
+Lebanon,1383,0.133
+Burundi,1270,0.045
+Samoa,1050,0.37
+Jordan,893,0.01
+Luxembourg,870,0.3364
+Cape Verde,840,0.2083
+Egypt,670,0.0007
+Micronesia,630,0.8974
+Mauritius,612,0.3
+Dominica,488,0.65
+Haiti,8300,0.3
+Seychelles,407,0.8945
+Palau,400,0.8715
+São Tomé and Príncipe,270,0.2801
+Eswatini (Swaziland),174,0.01
+Saint Lucia,170,0.276
+Andorra,160,0.3419
+Saint Vincent and the Grenadines,127,0.3256
+Antigua and Barbuda,90,0.21
+Palestine,90,0.0145
+Lesotho,80,0.0026
+Liechtenstein,70,0.4375
+Djibouti,60,0.0026
+Kuwait,60,0.0034
+Comoros,50,0.0224
+Saint Kitts and Nevis,50,0.1916
+Grenada,40,0.1163
+Tonga,40,0.0535
+Tuvalu,23,0.8912
+Barbados,20,0.0465
+Kiribati,20,0.0247
+Singapore,20,0.03
+Maldives,10,0.0356
+Bahrain,5,0.0067
+Malta,3,0.0095
+San Marino,1,0.0164
+Qatar,9,0.0007
