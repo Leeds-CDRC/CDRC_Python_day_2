@@ -1,0 +1,25 @@
+coffee_name,coffee_type,coffee_shop,price,cake_deal,rating
+nero_americano,americano,nero,2.40,TRUE,4
+nero_mocha,mocha,nero,2.60,FALSE,5
+nero_latte,latte,nero,2.50,FALSE,3
+nero_espresso ,espresso ,nero,2.00,TRUE,4
+nero_cappuccino,cappuccino,nero,2.50,FALSE,4
+nero_puppuccino,puppuccino,nero,2.70,FALSE,1
+costa_americano,americano,costa,2.75,TRUE,3
+costa_mocha,mocha,costa,3.00,TRUE,4
+costa_latte,latte,costa,2.90,TRUE,4
+costa_espresso ,espresso ,costa,1.80,TRUE,2
+costa_cappuccino,cappuccino,costa,3.00,TRUE,4
+starbucks_americano,americano,starbucks,2.50,FALSE,5
+starbucks_mocha,mocha,starbucks,3.00,FALSE,4
+starbucks_latte,latte,starbucks,2.70,FALSE,3
+starbucks_espresso ,espresso ,starbucks,2.20,FALSE,5
+starbucks_cappuccino,cappuccino,starbucks,20.00,FALSE,4
+starbucks_tea,tea,starbucks,1.00,FALSE,3
+pret_americano,americano,pret,2.85,TRUE,4
+pret_tea,tea,pret,1.90,TRUE,4
+pret_latte,latte,pret,3.10,TRUE,3
+uni_coffee_americano,americano,uni_coffee,2.10,FALSE,2
+uni_coffee_mocha,mocha,uni_coffee,2.40,TRUE,3
+uni_coffee_latte,latte,uni_coffee,2.40,TRUE,2
+uni_coffee_tea,tea,uni_coffee,0.80,FALSE,1
