@@ -1,0 +1,22 @@
+name: cdrc_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib==3.*
+  - seaborn==0.9
+  - ipywidgets
+  - Shapely==1.7.1
+  - pandas==0.25.3
+  - numpy==1.17.*
+  - mapclassify==2.2.0
+  - geopandas==0.6.1
+  - Fiona==1.8.11
+  - statsmodels
+  - descartes
+  - contextily
+  - geoplot
+
+prefix: /opt/anaconda3/envs/cdrc_env
+
+
