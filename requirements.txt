@@ -10,6 +10,7 @@ Fiona==1.8.11
 statsmodels
 descartes
 contextily
+libiconv
 
 jupyterlab>=1.0
 jupyter==1.0.0
