@@ -9,6 +9,8 @@ geopandas==0.6.1
 Fiona==1.8.11
 statsmodels
 descartes
+geoplot
+contextily
 
 jupyterlab>=1.0
 jupyter==1.0.0
