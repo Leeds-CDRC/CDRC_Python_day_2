@@ -2,6 +2,16 @@
  
 Binder link: https://mybinder.org/v2/gh/FrancescaPontin/CDRC_Python_day_2/HEAD
 
+## Materials for day 2 of the CDRC Beginner’s Python for Data Analysis course
+
+All material created by Fran Pontin 
+
+Email:F.L.Pontin@leeds.ac.uk,
+
+Website: http://francescapontin.github.io, 
+
+Twitter:[@FrancescaPontin](https://twitter.com/FrancescaPontin)
+
 
 09.20: registration opens online (you will be admitted to a virtual 'lobby' initially until Fran and the team admit you to the training)
 
