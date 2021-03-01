@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeBook xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd" version="2.5" xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<docDscr>
+		<citation>
+			<titlStmt>
+				<titl>DDI2.5 XML CODEBOOK</titl>
+			</titlStmt>
+		</citation>
+	</docDscr>
+	<stdyDscr>
+		<citation>
+			<titlStmt>
+				<titl>Median House Prices (Quarterly) - 1995-2018 - Combined Authorities Geodata Pack: West Yorkshire (E47000003)
+				</titl>
+				<altTitl/>
+			</titlStmt>
+			<rspStmt>
+				<AuthEnty></AuthEnty>
+				<othId/>
+			</rspStmt>
+			<prodStmt>
+				<producer>ESRC Consumer Data Research Centre </producer>
+				<copyright>The following attribution statements must be used to acknowledge copyright and source in use of these datasets:
+Data provided by the ESRC Consumer Data Research Centre
+CDRC 1995-2018 Median House Prices (Quarterly) Geodata Pack by the ESRC Consumer Data Research Centre;
+Contains HM Land Registry data © Crown copyright and database right 2019. This data is licensed under the Open Government Licence v3.0.;
+Office for National Statistics and Valuation Office Agency. Contains public sector information licensed under the Open Government Licence v3.0.;
+https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads</copyright>
+				<fundAg>Economic and Social Research Council</fundAg>
+				<grantNo></grantNo>
+			</prodStmt>
+			<distStmt>
+				<depositr></depositr>
+				<distDate></distDate>
+			</distStmt>
+			<serStmt>
+				<serName>Median House Prices</serName>
+			</serStmt>
+			<verStmt>
+				<version></version>
+			</verStmt>
+		</citation>
+		<stdyInfo>
+			<subject>
+				<keyword>E47000003</keyword>
+				<keyword>West Yorkshire</keyword>
+				<keyword>1995-2018</keyword>
+				<topcClas></topcClas>
+			</subject>
+			<abstract>This geodata pack provides the Median House Prices (Quarterly) for the years 1995-2018 covering the Combined Authorities: West Yorkshire (E47000003);
+Table LR001 represents All Dwellings;
+Table LR002 represents Detached Dwellings;
+Table LR003 represents Semi-Detached Dwellings;
+Table LR004 represents Terraced Dwellings;
+Table LR005 represents Flat Dwellings;
+Table LR006 represents Other Dwellings;
+Table LR007 represents New Dwellings;
+CNT represents Transaction Counts while MED represents Median Price;
+			</abstract>
+			<sumDscr>
+				<timePrd>1995-2018</timePrd>
+				<collDate></collDate>
+				<nation>England</nation>
+				<geogCover>West Yorkshire</geogCover>
+				<geogUnit>LSOA</geogUnit>
+				<anlyUnit>LSOA</anlyUnit>
+				<universe/>
+				<dataKind>Shapefile</dataKind>
+			</sumDscr>
+		</stdyInfo>
+		<method>
+			<dataColl>
+				<timeMeth/>
+				<dataCollector>Land Registry</dataCollector>
+				<sampProc/>
+				<deviat/>
+				<collMode/>
+				<sources>
+					<dataSrc>Median House Prices (Quarterly) 1995-2018</dataSrc>
+				</sources>
+				<weight/>
+			</dataColl>
+		</method>
+		<dataAccs>
+			<setAvail>
+				<accsPlac>Consumer Data Research Centre</accsPlac>
+				<accsPlac>UK Data Service</accsPlac>
+			</setAvail>
+			<useStmt>
+				<restrctn/>
+				<contact>data@cdrc.ac.uk</contact>
+			</useStmt>
+		</dataAccs>
+		<othrStdyMat>
+			<relStdy/>
+			<relPubl></relPubl>
+			<othRefs/>
+		</othrStdyMat>
+	</stdyDscr>
+</codeBook>
