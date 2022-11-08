@@ -1,6 +1,6 @@
 # CDRC Introduction to Python Day 2
  
-Binder link: https://mybinder.org/v2/gh/FrancescaPontin/CDRC_Python_day_2/HEAD
+Binder link: [https://mybinder.org/v2/gh/Leeds-CDRC/CDRC_Python_day_2/HEAD?labpath=CDRC_Python_for_Data_Analysis_2.ipynb](https://mybinder.org/v2/gh/Leeds-CDRC/CDRC_Python_day_2/HEAD?labpath=CDRC_Python_for_Data_Analysis_2.ipynb)
 
 ## Materials for day 2 of the CDRC Beginner’s Python for Data Analysis course
 
